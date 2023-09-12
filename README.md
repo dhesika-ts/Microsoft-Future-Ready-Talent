@@ -7,11 +7,11 @@ IDE: VS Code
 
 Industry: Healthcare
 
-Project Title: Future Ready Clinic
+Project Title: Azure Health Bot-Integrated Hospital Symptom Information Website
 
 Problem statement: Develop a comprehensive hospital website integrated with Azure Health Bot to provide users with a user-friendly platform for accessing detailed information on medical symptoms, their causes, and treatment options. This website should be hosted as an Azure Static Web Page for scalability and performance.
 
-Project Description: Azure Health Bot-Integrated Hospital Symptom Information Website
+Project Description:
 
 Core Idea:
 The core idea of this project is to create a hospital website that leverages Azure Health Bot to provide users with accurate and detailed information about medical symptoms, their causes, and treatment options. This project aims to address the need for easily accessible and reliable medical information online while enhancing user engagement through an intuitive interface.
