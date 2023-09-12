@@ -1,5 +1,5 @@
 # Microsoft-Future-Ready-Talent
-This is a Hospital Website.|
+This is a Hospital Website.
 
 Web Technologies used: HTML, CSS, JavaScript
 
@@ -8,6 +8,8 @@ IDE: VS Code
 Industry: Healthcare
 
 Project Title: Azure Health Bot-Integrated Hospital Symptom Information Website
+
+Project URL (Hosted by Azure Static WebApp): https://purple-desert-0dd9ed600.3.azurestaticapps.net
 
 Problem statement: Develop a comprehensive hospital website integrated with Azure Health Bot to provide users with a user-friendly platform for accessing detailed information on medical symptoms, their causes, and treatment options. This website should be hosted as an Azure Static Web Page for scalability and performance.
 
