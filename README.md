@@ -9,25 +9,35 @@ Industry: Healthcare
 
 Project Title: Future Ready Clinic
 
-Problem Statement: In the ever-evolving field of healthcare, providing efficient and accessible patient care is paramount. Patients require an easy and convenient way to access information about healthcare services, book appointments, and receive assistance. At the same time, healthcare providers need robust tools to manage patient data, appointments, and communication effectively. Future Ready Clinic, a forward-thinking healthcare facility, aims to address these challenges by developing a cutting-edge web platform.
-Project Description:Future Ready Clinic is an innovative project in the healthcare industry that leverages web technologies such as HTML, CSS, and JavaScript to create a user-friendly and comprehensive online portal. The project's primary goal is to enhance patient engagement, streamline administrative tasks, and improve overall healthcare services.
-Key Features and Functionalities:
+Problem statement: Develop a comprehensive hospital website integrated with Azure Health Bot to provide users with a user-friendly platform for accessing detailed information on medical symptoms, their causes, and treatment options. This website should be hosted as an Azure Static Web Page for scalability and performance.
 
-1. User-Friendly Patient Portal: The website provides patients with a user-friendly interface where they can access essential healthcare information, including clinic services, physician profiles, and appointment scheduling.
+Project Description: Azure Health Bot-Integrated Hospital Symptom Information Website
 
-2. HealthBot Integration: The website incorporates Azure HealthBot to offer patients an intelligent virtual assistant capable of answering common medical queries, helping with symptom assessment, and directing patients to appropriate healthcare services.
+Core Idea:
+The core idea of this project is to create a hospital website that leverages Azure Health Bot to provide users with accurate and detailed information about medical symptoms, their causes, and treatment options. This project aims to address the need for easily accessible and reliable medical information online while enhancing user engagement through an intuitive interface.
 
-3. Mobile Responsiveness: The website is designed to be responsive, ensuring that patients can access it from various devices, including smartphones, tablets, and desktop computers.
+Problem Statement:
+The problem this project aims to solve is the challenge individuals face when seeking trustworthy medical information online. Patients often encounter inaccurate or incomplete information, which can lead to confusion and unnecessary anxiety. Additionally, finding information about specific symptoms, their potential causes, and treatment options can be time-consuming and overwhelming. To address this problem, we propose to create a hospital website that integrates Azure Health Bot to provide users with accurate and comprehensive medical guidance.
 
-Benefits:
+Solution Overview:
+Our solution involves the development of a hospital website with the following key features:
 
-* Enhanced Patient Experience: Patients can easily access healthcare information, book appointments, and receive immediate assistance, leading to improved patient satisfaction.
+* Symptom Information: Users can input their symptoms or select them from a predefined list. The website will utilize Azure Health Bot to provide detailed information about the selected symptoms, including potential underlying medical conditions.
 
-* Accessibility: Future Ready Clinic's website ensures that healthcare services are accessible to a broader range of patients, including those with limited mobility.
+* Treatment Options: Users will receive insights into recommended treatments and interventions for specific medical conditions related to their symptoms. This information will encompass details about medications, therapies, lifestyle changes, and preventive measures.
 
-* Data Security: The use of Azure technologies guarantees the security and confidentiality of patient data, complying with healthcare industry standards and regulations.
+* Azure Health Bot Integration: Azure Health Bot will be seamlessly integrated into the website, offering a user-friendly chatbot interface to interact with users and retrieve information from the bot.
 
-In conclusion, the Future Ready Clinic project aims to bridge the gap between patients and healthcare providers by creating an interactive and accessible web platform. By integrating advanced technologies such as Azure HealthBot and providing robust features, the clinic seeks to revolutionize healthcare services in the digital age.
+* Azure Static Web Page Hosting: The website will be hosted as an Azure Static Web Page, ensuring high availability, scalability, and fast loading times. Azure CDN will be employed for efficient content delivery.
+
+* Scalability and Performance: The website will be designed to handle increasing user traffic and will scale resources as needed to maintain optimal performance.
+
+* Accessibility and Mobile Responsiveness: The website will prioritize accessibility for users with disabilities and ensure responsive design across various devices, including smartphones and tablets.
+
+Purpose and Functionality Mapping:
+The project's purpose is to provide individuals with a trusted source of medical information and streamline the process of symptom assessment and guidance. It addresses the problem of unreliable online medical information by integrating Azure Health Bot into a hospital website. Users will benefit from clear, accurate, and accessible information about their symptoms, causes, and treatment options.
+
+Overall, this project aims to empower users with the knowledge they need to make informed healthcare decisions, ultimately contributing to better health outcomes and healthcare information accessibility.
 
 #### Primary Azure Technologies used: Azure HeathBot, Static Web Apps ####
 
